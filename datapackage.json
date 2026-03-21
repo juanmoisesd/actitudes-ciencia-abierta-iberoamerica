@@ -1,0 +1,35 @@
+{
+  "name": "actitudes-ciencia-abierta-iberoamerica",
+  "title": "Attitudes towards Open Science and Data Sharing. Global dataset. CC0 1.0",
+  "description": "Attitudes towards Open Science and Data Sharing. Global dataset. CC0 1.0",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "latin-america",
+    "open-data",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/actitudes-ciencia-abierta-iberoamerica"
+    }
+  ],
+  "created": "2026-03-20"
+}
